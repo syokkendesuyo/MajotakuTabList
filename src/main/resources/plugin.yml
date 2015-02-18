@@ -1,0 +1,19 @@
+name: MajotakuTabList
+version: 1.0.3
+main: net.jp.minecraft.plugin.MajotakuTabList
+permissions:
+    majotaku.admin:
+        description: MTL_Admin
+        default: op
+    majotaku.builder:
+        description: MTL_Builer
+        default: op
+    majotaku.texture:
+        description: MTL_Texture
+        default: op
+    majotaku.plugin:
+        description: MTL_Plugin
+        default: op
+    majotaku.visitor:
+        description: MTL_Visitor
+        default: op
