@@ -1,5 +1,5 @@
 name: MajotakuTabList
-version: 1.0.3
+version: 1.0.4
 main: net.jp.minecraft.plugin.MajotakuTabList
 permissions:
     majotaku.admin:
